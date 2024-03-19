@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping While", "Looping Wh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping Do While", "Looping Do While\Looping Do While.vcxproj", "{B94C99B0-AF7B-45CE-9DA4-1C8178D15CAA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prosedur Fungsi", "Prosedur Fungsi\Prosedur Fungsi.vcxproj", "{50B81B91-67E8-4055-9233-E98303001135}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{B94C99B0-AF7B-45CE-9DA4-1C8178D15CAA}.Release|x64.Build.0 = Release|x64
 		{B94C99B0-AF7B-45CE-9DA4-1C8178D15CAA}.Release|x86.ActiveCfg = Release|Win32
 		{B94C99B0-AF7B-45CE-9DA4-1C8178D15CAA}.Release|x86.Build.0 = Release|Win32
+		{50B81B91-67E8-4055-9233-E98303001135}.Debug|x64.ActiveCfg = Debug|x64
+		{50B81B91-67E8-4055-9233-E98303001135}.Debug|x64.Build.0 = Debug|x64
+		{50B81B91-67E8-4055-9233-E98303001135}.Debug|x86.ActiveCfg = Debug|Win32
+		{50B81B91-67E8-4055-9233-E98303001135}.Debug|x86.Build.0 = Debug|Win32
+		{50B81B91-67E8-4055-9233-E98303001135}.Release|x64.ActiveCfg = Release|x64
+		{50B81B91-67E8-4055-9233-E98303001135}.Release|x64.Build.0 = Release|x64
+		{50B81B91-67E8-4055-9233-E98303001135}.Release|x86.ActiveCfg = Release|Win32
+		{50B81B91-67E8-4055-9233-E98303001135}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
